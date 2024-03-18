@@ -35,3 +35,4 @@ build/
 
 recipes.parquet
 reviews.parquet
+no_na_recipes.parquet.gzip
